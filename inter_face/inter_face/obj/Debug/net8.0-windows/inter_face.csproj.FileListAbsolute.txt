@@ -1,0 +1,16 @@
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\bin\Debug\net8.0-windows\inter_face.exe
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\bin\Debug\net8.0-windows\inter_face.deps.json
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\bin\Debug\net8.0-windows\inter_face.runtimeconfig.json
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\bin\Debug\net8.0-windows\inter_face.dll
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\bin\Debug\net8.0-windows\inter_face.pdb
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.Form1.resources
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.csproj.GenerateResource.cache
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.AssemblyInfoInputs.cache
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.AssemblyInfo.cs
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.csproj.CoreCompileInputs.cache
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.dll
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\refint\inter_face.dll
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.pdb
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\inter_face.genruntimeconfig.cache
+D:\DATA\上位機\MVC_TEST\inter_face\inter_face\obj\Debug\net8.0-windows\ref\inter_face.dll

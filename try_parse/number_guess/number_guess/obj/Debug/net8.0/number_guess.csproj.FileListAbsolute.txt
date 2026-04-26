@@ -1,0 +1,14 @@
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\bin\Debug\net8.0\number_guess.exe
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\bin\Debug\net8.0\number_guess.deps.json
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\bin\Debug\net8.0\number_guess.runtimeconfig.json
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\bin\Debug\net8.0\number_guess.dll
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\bin\Debug\net8.0\number_guess.pdb
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.AssemblyInfoInputs.cache
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.AssemblyInfo.cs
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.csproj.CoreCompileInputs.cache
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.dll
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\refint\number_guess.dll
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.pdb
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\number_guess.genruntimeconfig.cache
+D:\unity_class\c#_practice\try_parse\number_guess\number_guess\obj\Debug\net8.0\ref\number_guess.dll
