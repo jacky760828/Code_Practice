@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code_practice\\LIST_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25FFC2EC-27E2-4B54-9DE4-D69070A19A8A}|LIST_Practice\\LIST_Practice.csproj|d:\\code_practice\\list_practice\\list_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FFC2EC-27E2-4B54-9DE4-D69070A19A8A}|LIST_Practice\\LIST_Practice.csproj|solutionrelative:list_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code_practice\\LIST_Practice\\LIST_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "LIST_Practice\\Program.cs",
+              "ToolTip": "D:\\code_practice\\LIST_Practice\\LIST_Practice\\Program.cs",
+              "RelativeToolTip": "LIST_Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:30:48.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

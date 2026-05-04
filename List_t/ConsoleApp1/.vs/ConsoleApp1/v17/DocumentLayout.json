@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code_practice\\List_t\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\autofeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\autofeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\my_steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\my_steak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code_practice\\list_t\\consoleapp1\\consoleapp1\\abstractprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6CE7D-AF0A-4925-AEE0-C7FC83C19527}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstractprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Cat.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Cat.cs",
+              "RelativeToolTip": "ConsoleApp1\\Cat.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T03:03:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Animal.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Animal.cs",
+              "RelativeToolTip": "ConsoleApp1\\Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:49:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Dog.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp1\\Dog.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:43:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Foodtype.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Foodtype.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Foodtype.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Foodtype.cs",
+              "RelativeToolTip": "ConsoleApp1\\Foodtype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:18:20.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoFeeder.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\AutoFeeder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AutoFeeder.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\AutoFeeder.cs",
+              "RelativeToolTip": "ConsoleApp1\\AutoFeeder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:09:52.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "My_Steak.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\My_Steak.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\My_Steak.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\My_Steak.cs",
+              "RelativeToolTip": "ConsoleApp1\\My_Steak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:56:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:11:08.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbstractPrinter.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\AbstractPrinter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AbstractPrinter.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\AbstractPrinter.cs",
+              "RelativeToolTip": "ConsoleApp1\\AbstractPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:10:55.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "new.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\new.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\new.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\new.cs",
+              "RelativeToolTip": "ConsoleApp1\\new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:10:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Person.cs",
+              "ToolTip": "D:\\code_practice\\List_t\\ConsoleApp1\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:10:39.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

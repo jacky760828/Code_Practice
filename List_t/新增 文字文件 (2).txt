@@ -1,0 +1,142 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+	<UseWPF>true</UseWPF>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<AssemblyName>Thunder</AssemblyName>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<ApplicationIcon>fih_icon.ico</ApplicationIcon>
+	<StartupObject>Fox.UI.Main.Program</StartupObject>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<SatelliteResourceLanguages>en;zh-Hans;zh-CHS;zh-CHT;zh-Hant;zh-TW</SatelliteResourceLanguages>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Resource Include="fih_icon.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="fih_icon.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <PackageReference Include="DockPanelSuite" Version="3.1.1" />
+    <PackageReference Include="DockPanelSuite.ThemeVS2015" Version="3.1.1" />
+    <PackageReference Include="FontAwesome.Sharp" Version="6.6.0" />
+    <PackageReference Include="WinForms.DataVisualization" Version="1.10.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Driver\Common\DriverInterface\Fox.Driver.Common.IBarcode\Fox.Driver.Common.IBarcode.csproj" />
+    <ProjectReference Include="..\..\Driver\Common\DriverInterface\Fox.Driver.Common.IHyperVision\Fox.Driver.Common.IHyperVision.csproj" />
+    <ProjectReference Include="..\..\Driver\Common\DriverInterface\Fox.Driver.Common.IRobot\Fox.Driver.Common.IRobot.csproj" />
+    <ProjectReference Include="..\..\Driver\Hardware\Fox.Driver.Hardware.IO\Fox.Driver.Hardware.IO.csproj" />
+    <ProjectReference Include="..\..\Driver\Hardware\Fox.Driver.Hardware.PLCV2\Fox.Driver.Hardware.PLC.csproj" />
+    <ProjectReference Include="..\..\LanguageManager\Fox.LanguageManager\Fox.LanguageManager.csproj" />
+    <ProjectReference Include="..\..\BindingManagers\Fox.BindingManagers\Fox.BindingManagers.csproj" />
+    <ProjectReference Include="..\..\CellManagers\Fox.CellManagers\Fox.CellManagers.csproj" />
+    <ProjectReference Include="..\..\Main\Fox.Main.Common\Fox.Main.Common.csproj" />
+    <ProjectReference Include="..\..\Service\Log.Controls\Fox.Service.Log.Controls.csproj" />
+    <ProjectReference Include="..\..\Service\Log\Fox.Service.Log.csproj" />
+    <ProjectReference Include="..\..\Service\Model\Fox.Service.TCP.csproj" />
+    <ProjectReference Include="..\..\Workflow\Fox.Workflow.Engine\Fox.Workflow.Engine.csproj" />
+    <ProjectReference Include="..\..\Workflow\Fox.Workflow.Step.Cells\Fox.Workflow.Step.Cells.csproj" />
+    <ProjectReference Include="..\..\Workflow\Fox.Workflow.Step.Events\Fox.Workflow.Step.Events.csproj" />
+    <ProjectReference Include="..\..\Workflow\Fox.Workflow.Step\Fox.Workflow.Step.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.Common\Fox.UI.Controls.Common.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.Comport\Fox.UI.Controls.Comport.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.Dialog\Fox.UI.Controls.Dialog.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.ImageViewer\Fox.UI.Controls.ImageViewer.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.IOPanel\Fox.UI.Controls.IOPanel.csproj" />
+    <ProjectReference Include="..\Controls\Fox.UI.Controls.TCPIP\Fox.UI.Controls.TCPIP.csproj" />
+    <ProjectReference Include="..\Event\Fox.UI.Event.Invoke\Fox.UI.Event.Invoke.csproj" />
+    <ProjectReference Include="..\Event\Fox.UI.Event\Fox.UI.Event_A.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<Content Include="..\..\..\..\src\Fox\UI\Main_AE\doc\AlarmTemplate.rtf">
+			<Link>AlarmTemplate.rtf</Link>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+  <ItemGroup>
+    <Compile Update="Barcode_TCPIPConnection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Barcode_TCPIPConnection_UIEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Barcode_SerialPortConnection_UIEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_Camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_Robot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_PLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_Workflow_UnitTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_Workflow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Home_SDKInitial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_SDKInitial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Home_UIEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Device_UIEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_PLC_TCP_UIEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_Login_UIEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlForm_History_SDKInitial.cs" />
+    <Compile Update="UserControlForm_History_UIEvent.cs" />
+	  <Content Include="Resources\*.*">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+	<Import Project="Build\Fox.JsonConfig.props" />
+
+	<!-- 1️ 先 Import props（屬性 / Item）- 路徑 / Item（Include、None）Fox.Driver.props -->
+	<Import Project="Build\Fox.Driver.props" />
+
+	<!-- 2️ 最後 Import targets（行為）- AfterBuild / Delete / Copy 行為 .targets -->
+	<Import Project="Build\Fox.Cleanup.AfterBuild.targets" />
+	
+	
+</Project>

@@ -1,0 +1,14 @@
+D:\code_practice\LIST_Practice\LIST_Practice\bin\Debug\net8.0\LIST_Practice.exe
+D:\code_practice\LIST_Practice\LIST_Practice\bin\Debug\net8.0\LIST_Practice.deps.json
+D:\code_practice\LIST_Practice\LIST_Practice\bin\Debug\net8.0\LIST_Practice.runtimeconfig.json
+D:\code_practice\LIST_Practice\LIST_Practice\bin\Debug\net8.0\LIST_Practice.dll
+D:\code_practice\LIST_Practice\LIST_Practice\bin\Debug\net8.0\LIST_Practice.pdb
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.AssemblyInfoInputs.cache
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.AssemblyInfo.cs
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.csproj.CoreCompileInputs.cache
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.dll
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\refint\LIST_Practice.dll
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.pdb
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\LIST_Practice.genruntimeconfig.cache
+D:\code_practice\LIST_Practice\LIST_Practice\obj\Debug\net8.0\ref\LIST_Practice.dll
